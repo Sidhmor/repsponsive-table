@@ -1,0 +1,7 @@
+{
+    "name": "sidhmor/responsive-table",
+    "description": "Retro responsive-table",
+    "require": {
+        "php": ">=5.3"
+    }
+}
